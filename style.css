@@ -1,4 +1,14 @@
 .coop-photo {
-    display : block;
-    float-wrap : auto;
+    float : right;
+    margin-right: 5%;
+}
+.text {
+    float-wrap : wrap;
+    text-align : center;
+}
+body{
+    background-color: seagreen;
+}
+.hobbies{
+    list-style-type: none;
 }
