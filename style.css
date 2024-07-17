@@ -1,14 +1,23 @@
 .coop-photo {
     float : right;
-    margin-right: 5%;
+    margin-right: .5em;
+
 }
 .text {
     float-wrap : wrap;
     text-align : center;
 }
 body{
-    background-color: seagreen;
+    background-image: url(IMG_1330.JPG);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
 }
 .hobbies{
+    list-style-type: none;
+}
+
+.fun-facts {
     list-style-type: none;
 }
